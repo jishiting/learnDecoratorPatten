@@ -10,6 +10,5 @@ public class FunctionMain {
         //eda.doSomething();
         ExtendsDecoratorB edb = new ExtendsDecoratorB(eda);
         edb.doSomething();
-        System.out.println("add a new test");
     }
 }
