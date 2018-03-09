@@ -12,5 +12,9 @@ public class FunctionMain {
         edb.doSomething();
 
         System.out.println("I do a wrong process, and I will revise into the before one.");
+
+        System.out.println("this is the reset method");
+
+        System.out.println("this info is belong to branch test, not belong to master");
     }
 }
