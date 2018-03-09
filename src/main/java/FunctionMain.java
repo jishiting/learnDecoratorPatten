@@ -10,5 +10,9 @@ public class FunctionMain {
         //eda.doSomething();
         ExtendsDecoratorB edb = new ExtendsDecoratorB(eda);
         edb.doSomething();
+
+        System.out.println("this is the reset method");
+
+
     }
 }
