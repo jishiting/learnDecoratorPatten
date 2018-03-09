@@ -10,7 +10,5 @@ public class FunctionMain {
         //eda.doSomething();
         ExtendsDecoratorB edb = new ExtendsDecoratorB(eda);
         edb.doSomething();
-
-        System.out.println("I do a wrong process, and I will revise into the before one.");
     }
 }
